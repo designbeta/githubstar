@@ -1,4 +1,4 @@
-name: releasepypi
+name: Releasepypi
 
 on:
   workflow_dispatch:
