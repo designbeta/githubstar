@@ -1,4 +1,4 @@
-name: PypiUpload
+name: releasepypi
 
 on:
   workflow_dispatch:
